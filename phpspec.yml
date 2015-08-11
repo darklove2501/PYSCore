@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: PYSCore
+        psr4_prefix: PYSCore
+        src_path: app
